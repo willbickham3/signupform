@@ -7,11 +7,15 @@ body {
     width: 100vw;
 }
 
-div {
+.container {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
-    height: 100vh;
-    width: 100vw;
 }
 
+.containertwo {
+    display: flex;
+    flex-direction: column;
+    width: 65vw;
+    height: 100vh;
+}
