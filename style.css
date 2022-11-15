@@ -37,12 +37,12 @@ body {
     align-items: center;
     justify-content: center;
     width: 100%;
-    top: 4em;
+    top: 6em;
 }
 
 .odinlogo {
-    height: 250px;
-    width: 250px;
+    height: 200px;
+    width: 150px;
 }
 
 .odintext {
