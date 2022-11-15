@@ -26,4 +26,22 @@ body {
     width: 35vw;
     background-image: url("images/matias-north-WQUS_i6pD2s-unsplash.jpg");
     background-size: cover;
+    text-align: center;
+    display: flex;
+    position: relative;
+}
+
+.odin {
+    font-size: 30px;
+}
+
+.artistcredit {
+    position: absolute;
+    bottom: 0.5em;
+    left: 0.5em;
+    color: rgb(58, 41, 68);
+}    
+
+.artistcredit a:link {
+    color: rgb(58, 41, 68);
 }
