@@ -1,7 +1,3 @@
-* {
-    font-family: Norse Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-
 body {
     height: 100vh;
     width: 100vw;
@@ -26,13 +22,26 @@ body {
     width: 35vw;
     background-image: url("images/matias-north-WQUS_i6pD2s-unsplash.jpg");
     background-size: cover;
-    text-align: center;
     display: flex;
     position: relative;
 }
 
-.odin {
-    font-size: 30px;
+.odincontainer {
+    display: flex;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    top: 4em;
+}
+
+.odinlogo {
+    height: 250px;
+    width: 250px;
+}
+
+.odintext {
+    font-size: 35px;
 }
 
 .artistcredit {
