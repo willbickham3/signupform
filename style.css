@@ -61,3 +61,20 @@ body {
 .artistcredit a:link {
     color: rgb(87, 173, 126);
 }
+
+.bar-one {
+    background-color: grey;
+    width: 65vw;
+    height: 35vh;}
+
+.bar-two {
+    background-color: lightgray;
+    width: 65vw;
+    height: 30vh;
+}
+
+.bar-three {
+    background-color: grey;
+    width: 65vw;
+    height: 35vh;
+}
