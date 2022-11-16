@@ -53,11 +53,11 @@ body {
 
 .artistcredit {
     position: absolute;
-    bottom: 0.5em;
-    left: 0.5em;
-    color: rgb(58, 41, 68);
+    bottom: 1vh;
+    right: 2vw;
+    color: rgb(87, 173, 126);
 }    
 
 .artistcredit a:link {
-    color: rgb(58, 41, 68);
+    color: rgb(87, 173, 126);
 }
