@@ -63,18 +63,6 @@ body {
 }
 
 .bar-one {
-    background-color: grey;
-    width: 65vw;
-    height: 35vh;}
-
-.bar-two {
     background-color: lightgray;
     width: 65vw;
-    height: 30vh;
-}
-
-.bar-three {
-    background-color: grey;
-    width: 65vw;
-    height: 35vh;
-}
+    height: 100vh;}
