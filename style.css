@@ -128,4 +128,5 @@ input {
     font: 1em sans-serif;
     box-sizing: border-box;
     border-radius: 0.3em;
+    width: 12vw;
 }
