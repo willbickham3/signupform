@@ -139,6 +139,12 @@ button {
     border-radius: 0.4em;
     height: 8vh;
     width: 11vw;
-    font-size: 1em;
+    font-size: 1.1em;
     background-color: blue;
+}
+button:hover {
+    transition-duration: 0.2s;
+    background-color: aliceblue;
+    cursor: pointer;
+    transform: scale(1.05)
 }
