@@ -130,3 +130,13 @@ input {
     border-radius: 0.3em;
     width: 12vw;
 }
+
+button {
+    position: absolute;
+    bottom: 10rem;
+    border-radius: 0.4em;
+    height: 8vh;
+    width: 11vw;
+    font-size: 1em;
+    background-color: blue;
+}
