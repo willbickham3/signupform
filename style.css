@@ -108,7 +108,8 @@ ul {
     margin: 0;
     padding: 0;
     display: flex;
-    flex-direction: column;
+    flex-wrap: wrap;
+    width: 40vw;
 }
 
 form li {
@@ -122,13 +123,14 @@ form li {
 label {
     display: inline-block;
     text-align: left;
+    font-size: 1.2em;
 }
 
 input {
     font: 1em sans-serif;
     box-sizing: border-box;
     border-radius: 0.3em;
-    width: 12vw;
+    width: 20rem;
 }
 
 button {
