@@ -93,10 +93,6 @@ legend div {
     font-family: sans-serif;
 }
 
-.form {
-    display: flex;
-}
-
 ul {
     list-style: none;
     margin: 0;
