@@ -149,11 +149,10 @@ button {
     height: 8vh;
     width: 11vw;
     font-size: 1.1em;
-    background-color: blue;
+    background-color: aliceblue;
 }
 button:hover {
     transition-duration: 0.2s;
-    background-color: aliceblue;
     cursor: pointer;
     transform: scale(1.05)
 }
