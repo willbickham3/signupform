@@ -18,7 +18,7 @@ body {
 .containertwo {
     display: flex;
     flex-direction: column;
-    width: 65vw;
+    width: 65%;
     height: 100vh;
 }
 
@@ -70,6 +70,26 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+.dummytext1 {
+    color: aliceblue;
+    font-size: 30px;
+    width: 90%;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.dummytext2 {
+    color: aliceblue;
+    font-size: 18px;
+    width: 90%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
 }
 
 form {
