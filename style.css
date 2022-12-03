@@ -125,8 +125,6 @@ input {
 }
 
 button {
-    position: absolute;
-    bottom: 10rem;
     border-radius: 0.4em;
     height: 8vh;
     width: 11vw;
