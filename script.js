@@ -15,7 +15,7 @@ psw.onblur = function() {
 }
 
 confirmPsw.onblur = function() {
-    if(confirmPsw.value.match(psw.value)) {
+    if(confirmPsw.value === psw.value) {
         confirmPsw.classList.remove("invalid");
         confirmPsw.classList.add("valid");
 }   else {
