@@ -161,3 +161,11 @@ button:hover {
     cursor: pointer;
     transform: scale(1.05)
 }
+
+.valid {
+    border: 3px solid green;
+}
+
+.invalid {
+    border: 3px solid red;
+}
